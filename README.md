@@ -6,6 +6,6 @@ Esse repositório faz parte de um exercício do WorkShop de Git e Github ministr
 Você deve: 
 - Clonar esse repositório para o seu repositório local; 
 - Criar uma branch com o seu nome completo (ex: name/alessandro_furlan);
-- Acessar o arquivo 'perguntas_do_ale';
+- Acessar o arquivo 'exercicios/exercicio1.txt';
 - Colocar suas respostas embaixo de cada pergunta;
 - Fazer um commit e um push das suas mudanças.

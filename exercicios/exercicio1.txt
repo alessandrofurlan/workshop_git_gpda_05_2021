@@ -1,0 +1,9 @@
+1) Qual o seu nome?
+
+2) Você já teve contato com o git/github?
+
+3) Você pretende utilizar o git/github no futuro?
+
+4) (Responder com sinceridade) O que você achou desse workshop?
+
+5) Alguma sugestão? Quais?
