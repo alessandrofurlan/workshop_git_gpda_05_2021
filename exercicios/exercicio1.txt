@@ -1,9 +1,10 @@
 1) Qual o seu nome?
-
+ Luis Gustavo Odilon Goncalves Paiva
 2) Você já teve contato com o git/github?
-
+ gitlab, mas sim 
 3) Você pretende utilizar o git/github no futuro?
-
+ Considerando o metodo de produçao de eletronica, vou sim 
 4) (Responder com sinceridade) O que você achou desse workshop?
-
+ Muito bom cara, ta de parabens! 
 5) Alguma sugestão? Quais?
+ Merch do Ian Motta
