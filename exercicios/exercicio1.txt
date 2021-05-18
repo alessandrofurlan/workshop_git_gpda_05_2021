@@ -1,9 +1,14 @@
 1) Qual o seu nome?
+Dourado
 
 2) Você já teve contato com o git/github?
+Não
 
 3) Você pretende utilizar o git/github no futuro?
+Sim
 
 4) (Responder com sinceridade) O que você achou desse workshop?
+Topperson
 
 5) Alguma sugestão? Quais?
+Nenhuma, gostei muito. Sou ruim com códigos e to me achando bom agora kkkkkk.
