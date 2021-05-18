@@ -1,9 +1,10 @@
 1) Qual o seu nome?
-
+Rafaella 
 2) Você já teve contato com o git/github?
-
+Sim
 3) Você pretende utilizar o git/github no futuro?
-
+Sim
 4) (Responder com sinceridade) O que você achou desse workshop?
-
+Top demais
 5) Alguma sugestão? Quais?
+Nau
