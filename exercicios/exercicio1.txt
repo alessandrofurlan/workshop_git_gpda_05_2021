@@ -1,9 +1,14 @@
 1) Qual o seu nome?
+Rafael Balaguer
 
 2) Você já teve contato com o git/github?
+Sim
 
 3) Você pretende utilizar o git/github no futuro?
+Yeeep
 
 4) (Responder com sinceridade) O que você achou desse workshop?
+Ouvir a voz do Ale deixou minha cueca apertada. Brincaderias à parte... muito foda. 
 
 5) Alguma sugestão? Quais?
+Achei que teve poucas fotos do dourado
