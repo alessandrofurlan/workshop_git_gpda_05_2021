@@ -1,9 +1,10 @@
 1) Qual o seu nome?
-
+Guilherme Fagundes
 2) Você já teve contato com o git/github?
-
+Só no workshop
 3) Você pretende utilizar o git/github no futuro?
-
+Sim
 4) (Responder com sinceridade) O que você achou desse workshop?
-
+Muito bom e explicativo
 5) Alguma sugestão? Quais?
+Nenhuma
